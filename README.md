@@ -10,7 +10,7 @@ Batch files are ideal for that, as they open in any plain text editor. You may t
 
 Another benefit of this approach is that you may adjust the batch file as you see fit. This is especially useful if multiple changes are made by it to the system.
 
-[![N|Solid](https://www.ghacks.net/wp-content/uploads/2016/11/pleasant-windows-10.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.ghacks.net/wp-content/uploads/2016/11/pleasant-windows-10.png)](https://www.ghacks.net/2016/11/08/improve-windows-10-with-one-click-batch-files/)
 
 
 

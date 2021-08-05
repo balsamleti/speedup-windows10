@@ -1,6 +1,5 @@
 # Improve Windows 10 with one-click batch files
 
-[![N|Solid](https://cdnp2.stackassets.com/bff450c91e3c024303456e4a5a6ec21016e2db01/store/a0a33fb08583d71a657751d8312d93cde9d5fe31825e086e8647e52fd1c0/559f7a9a59a7419a5b1a1b0e7901d0f14cdb1f18_logo_main.png)](https://nodesource.com/products/nsolid)
 
 While there are plenty of tweaking and privacy tools out there for Windows 10, all have in common that you cannot verify any of the operations before they are executed.
 
